@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FaceDetect">
+</Property><Property Name="解决方案文件" Value="F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\FaceDetect.sln">
+</Property><Property Name="用户选项文件" Value="F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\FaceDetect.suo">
+</Property><Property Name="Date" Value="2014年10月31日">
+</Property><Property Name="Time" Value="13:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FaceDetect.sln" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FaceDetect.suo" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect.suo">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj" Description="项目文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\FaceDetect.csproj">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj.user" Description="项目用户文件成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\FaceDetect.csproj.user">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Mainframe.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Mainframe.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Mainframe.Designer.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Mainframe.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Program.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Program.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Properties\Settings.settings" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\haarcascade_eye.xml" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\haarcascade_eye.xml">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\haarcascade_frontalface_alt_tree.xml" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\haarcascade_frontalface_alt_tree.xml">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Mainframe.resx" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Mainframe.resx">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\Properties\Resources.resx" Description="文件已成功备份为 F:\人脸视频所需程序\C#人脸识别\人脸识别\FaceDetect\Backup\FaceDetect\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FaceDetect.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FaceDetect.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FaceDetect" Source="FaceDetect\FaceDetect.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
